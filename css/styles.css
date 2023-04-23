@@ -75,6 +75,7 @@ a:hover {
 .intro {
   width: 30%;
   margin: auto;
+  text-align: justify;
 }
 
 .contact-message {
